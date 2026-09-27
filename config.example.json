@@ -1,0 +1,18 @@
+{
+  "telegram_token": "",
+  "telegram_chat_id": "",
+  "telegram_admins": [],
+  "telegram_signals": true,
+  "telegram_pre_alert": true,
+  "telegram_all_rounds": false,
+  "telegram_commands": true,
+  "engine_signals": false,
+  "max_gale": 2,
+  "tie_as_green": true,
+  "tie_payout": 5,
+  "tie_pushes_pb": true,
+  "poll_seconds": 2,
+  "history_newest_first": true,
+  "history_limit": 200,
+  "reset_on_start": true
+}
